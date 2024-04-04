@@ -6,6 +6,8 @@ export type Guitar = {
     price: number
 }
 
+// Para el elemento que se agrega en el carrito, ya no solo es una Guitar, sino se le agrega una nueva propiedad
+// Se hereda y extiende de Guitar
 export type CartItem = Guitar & {
     quantity: number
 }
