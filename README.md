@@ -11,4 +11,4 @@ Proyeto en React de práctica para el curso de Juan Pablo de la Torre
 
 
 ## Link del proyecto en producción en Netlify
-https://wondrous-raindrop-b51ddf.netlify.app/
+[guitarla-ts.netlify.app](https://guitarla-ts.netlify.app/)
